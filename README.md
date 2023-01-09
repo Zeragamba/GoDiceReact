@@ -1,5 +1,7 @@
 # GoDice for React
 
+# Note: Repo Archived and merged into a monorepo found here: https://github.com/Zeragamba/go-dice-js
+
 This package provides some hooks for interfacing with GoDice using the [go-dice-api] library.
 
 [go-dice-api]: https://www.npmjs.com/package/go-dice-api
